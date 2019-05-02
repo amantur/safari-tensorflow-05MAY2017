@@ -1,4 +1,4 @@
-jupyter==4.1.0
+jupyter==1.0.0
 tensorflow==1.21.1
 scipy==1.2.1
 scikit-learn==1.8.2

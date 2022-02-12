@@ -1,3 +1,5 @@
+#THIS REPOSITORY IS ARCHIVED
+
 # safari-tensorflow-05MAY2017
 
 Dockerfile file for Tensorflow Course (15 May 2017)
